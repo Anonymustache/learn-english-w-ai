@@ -8,5 +8,6 @@
 ```json
 {
     "API_KEY": "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"
-}```
+}
+```
 3. Запускайте проект через консоль командой: `flutter run --dart-define-from-file=keys.json`
